@@ -1,2 +1,2 @@
 config:
-    info:master batch springcloud-config/config-dev.yml version = 1
+    info:test batch springcloud-config/config-dev.yml version = 1
