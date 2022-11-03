@@ -1,1 +1,2 @@
-ss
+config:
+    info:master batch springcloud-config/config-prod.yml version = 1
